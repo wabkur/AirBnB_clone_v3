@@ -13,6 +13,7 @@ The console is the first segment of the AirBnB project at Holberton School that 
 * [Installation](#installation)
 * [File Descriptions](#file-descriptions)
 * [Usage](#usage)
+* [contributing](#contributing)
 * [Examples of use](#examples-of-use)
 * [Bugs](#bugs)
 * [Authors](#authors)
@@ -126,6 +127,8 @@ TestBaseModel class:
 * `def test_user_module_docstring(self)` - Test for the user.py module docstring
 * `def test_user_class_docstring(self)` - Test for the User class docstring
 
+## contributing
+Given contribution where by editing: Adding and Removing some codes in a file by making it better. 
 
 ## Examples of use
 ```
@@ -156,6 +159,7 @@ No known bugs at this time.
 ## Authors
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
+Wabili Tukur - [Github](https://github.com/wabkur)
 
 Second part of Airbnb: Joann Vuong
 ## License
